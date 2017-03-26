@@ -1,0 +1,13 @@
+{
+  "extends": "./config/base",
+  "compilerOptions": {
+    "outDir": "lib",
+    "inlineSourceMap": true
+  },
+  "include": [
+    
+  ],
+  "exclude": [
+
+  ]
+}
