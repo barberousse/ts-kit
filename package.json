@@ -22,6 +22,6 @@
   "homepage": "https://github.com/barberousse/ts-kit#readme",
   "private": true,
   "devDependencies": {
-    "typescript": "^2.3.x"
+    "typescript": "2.9.x"
   }
 }
