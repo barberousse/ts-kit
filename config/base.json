@@ -2,16 +2,11 @@
   "compilerOptions": {
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noImplicitAny": true,
-    "noEmitOnError": true,
-    "strictNullChecks": true,
-    "suppressImplicitAnyIndexErrors": true,
+    "lib": [ "ES6" ],
     "listEmittedFiles": true,
     "listFiles": true,
     "pretty": true,
-    "target": "ES5",
-    "lib": [ "ES6" ]
+    "strict": true,
+    "target": "ES5"
   }
 }
