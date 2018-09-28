@@ -2,7 +2,10 @@
   "extends": "./config/base",
   "compilerOptions": {
     "outDir": "lib",
-    "inlineSourceMap": true
+    "inlineSources": true,
+    "inlineSourceMap": true,
+    "noEmitHelpers": true,
+    "importHelprs": true
   },
   "include": [
     

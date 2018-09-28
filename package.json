@@ -18,5 +18,8 @@
     "tape": "^4.9.1",
     "ts-node-dev": "^1.0.0-pre.30",
     "typescript": "3.x.x"
+  },
+  "dependencies": {
+    "tslib": "^1.9.3"
   }
 }
